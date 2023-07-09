@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Madhurima03
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any projects where I can display my skills.
 - 📫 How to reach me: email id- madhurimach03@gmail.com
 
