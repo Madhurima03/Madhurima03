@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ank-d&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurima03&layout=compact&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ank-d&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=madhurima03&theme=dark)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ank-d&show_icons=true&locale=en&theme=dark" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurima03&show_icons=true&locale=en&theme=dark" /></p>
 
 </div>
 
