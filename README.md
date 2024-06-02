@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-- 👀 I’m interested in Machine Learning and Web Development
+ 👀 I’m interested in Machine Learning and Web Development
   
-- 🌱 I’m currently learning Web Development
+ 🌱 I’m currently learning Web Development
   
-- 💞️ I’m looking to collaborate on any projects where I can display my skills.
+ 💞️ I’m looking to collaborate on any projects where I can display my skills.
 
  </div>
  
